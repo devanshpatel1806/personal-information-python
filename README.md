@@ -47,12 +47,14 @@ The program demonstrates:
 
 - Addition (+)
 - Subtraction (-)
-- Multiplication (*)
-- Division (/)
 
 The estimated birth year is calculated using:
 
 birth_year = current_year - age
+
+Your age after 5 years will be: 
+
+age_after_5_years = age + 5
 
 ### 4. Type Casting
 
