@@ -199,12 +199,3 @@ Through this project, I learned:
 - How to create an interactive Python program.
 - How to upload a project to GitHub.
 
-## Author
-
-Devansh Patel
-
-This project was created as part of a Python programming assignment.
-
-## License
-
-This project is created for educational purposes.
