@@ -197,9 +197,5 @@ Through this project, I learned:
 - How to use type() and id().
 - How to use formatted strings.
 - How to create an interactive Python program.
-
-- ## Project Video
-
-[Watch My Project Explanation Video](./Python_Project_Explanation.mp4)
 - How to upload a project to GitHub.
 
